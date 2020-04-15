@@ -1,7 +1,7 @@
 <html lang="ja">
   <head>
     <meta charset="UTF-8">
-    <title>盛岡の好きなものをブログ的にゆるーく紹介</title>
+    <title　style="background-color:#00FF00">盛岡の好きなものをブログ的にゆるーく紹介</title>
   </head>
   
     <h1>好きなもの紹介</h1>
